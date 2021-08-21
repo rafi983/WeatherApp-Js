@@ -1,2 +1,2 @@
 # WeatherApp-Js
-Live-site: https://weather-app-rafi.netlify.app
+Live-site: https://weatherapp-js-rafi.netlify.app/
