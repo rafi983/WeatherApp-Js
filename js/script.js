@@ -6,7 +6,7 @@ const wrapper = document.querySelector(".wrapper"),
   weatherPart = wrapper.querySelector(".weather-part"),
   wIcon = weatherPart.querySelector("img"),
   arrowBack = wrapper.querySelector("header i"),
-  apiKey = "3d28a192e264f154092eb83116ee7fa6";
+  apiKey = "";
 
 let api;
 
